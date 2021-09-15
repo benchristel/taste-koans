@@ -1,0 +1,12 @@
+{
+  "name": "taste-koans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@benchristel/taste": "^0.0.1"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
