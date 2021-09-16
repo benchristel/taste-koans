@@ -76,7 +76,7 @@ test("which()", {
   "lets you control what counts as 'equal'"() {
     function isNumeric(string) {
       return typeof string === "string"
-        && !isNaN(parseInt(string))
+        && /^(0|[1-9][0-9]*)$/.test(string)
     }
 
     expect(
