@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@benchristel/taste@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@benchristel/taste/-/taste-0.0.1.tgz#d2f08553f279baddbef68befa2d51bb5ea6b63e8"
-  integrity sha512-A7jum7Sq1G7q7tmNyXBGaZk1AyPlBt3p/TBTndgJHsFU6YMulhcPZrGA4Qk8v91AVlAE9nNTBHWQdSf6SatPsw==
+"@benchristel/taste@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@benchristel/taste/-/taste-0.1.0.tgz#13ecbde5247da204c56001da8b0e4201a4596754"
+  integrity sha512-NMAH8XLWaTXVtG3wqTF046r+XBwbM4tniMXu1OzpM7bn2mJyGGEa5jJoxiwDomKTTIaRKUehddtgyDj5HaxFJw==
 
 "@gar/promisify@^1.0.1":
   version "1.1.2"

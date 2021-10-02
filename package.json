@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@benchristel/taste": "^0.0.1"
+    "@benchristel/taste": "^0.1.0"
   },
   "devDependencies": {
     "snowpack": "^3.8.8"
